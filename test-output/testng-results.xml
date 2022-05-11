@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-31T15:40:49 IST" name="Default suite" finished-at="2022-03-31T15:41:15 IST" duration-ms="25495">
+    <groups>
+    </groups>
+    <test started-at="2022-03-31T15:40:49 IST" name="Default test" finished-at="2022-03-31T15:41:15 IST" duration-ms="25495">
+      <class name="com.ba.guru.test.QuotationpageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:40:49 IST" name="setUp" finished-at="2022-03-31T15:40:55 IST" duration-ms="5549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="Quationpagesetup()[pri:0, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:40:55 IST" name="Quationpagesetup" finished-at="2022-03-31T15:41:04 IST" duration-ms="8795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quationpagesetup -->
+        <test-method signature="clickQuationtion()[pri:1, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:41:04 IST" name="clickQuationtion" finished-at="2022-03-31T15:41:04 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickQuationtion -->
+        <test-method signature="enterBreakCover()[pri:2, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:41:04 IST" name="enterBreakCover" finished-at="2022-03-31T15:41:04 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterBreakCover -->
+        <test-method signature="enterWindScreenCover()[pri:3, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:41:04 IST" name="enterWindScreenCover" finished-at="2022-03-31T15:41:05 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterWindScreenCover -->
+        <test-method signature="entervehicledetail()[pri:4, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:41:05 IST" name="entervehicledetail" finished-at="2022-03-31T15:41:05 IST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entervehicledetail -->
+        <test-method signature="enterParkingLocation()[pri:5, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:41:05 IST" name="enterParkingLocation" finished-at="2022-03-31T15:41:05 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterParkingLocation -->
+        <test-method signature="enterStartofpolicy()[pri:6, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:41:05 IST" name="enterStartofpolicy" finished-at="2022-03-31T15:41:06 IST" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterStartofpolicy -->
+        <test-method signature="checkamount()[pri:7, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:41:06 IST" name="checkamount" finished-at="2022-03-31T15:41:06 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkamount -->
+        <test-method signature="ClickSaveQuotation()[pri:8, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:41:06 IST" name="ClickSaveQuotation" finished-at="2022-03-31T15:41:07 IST" duration-ms="1189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickSaveQuotation -->
+        <test-method signature="getQuationpageUrl()[pri:9, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:41:07 IST" name="getQuationpageUrl" finished-at="2022-03-31T15:41:08 IST" duration-ms="1344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getQuationpageUrl -->
+        <test-method signature="getRetrivebtn()[pri:10, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:41:08 IST" name="getRetrivebtn" finished-at="2022-03-31T15:41:13 IST" duration-ms="4582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRetrivebtn -->
+        <test-method signature="ClickRetrivebtn()[pri:11, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:41:13 IST" name="ClickRetrivebtn" finished-at="2022-03-31T15:41:15 IST" duration-ms="1845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickRetrivebtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ba.guru.test.QuotationpageTest@6ca8564a]" started-at="2022-03-31T15:41:15 IST" name="tearDown" finished-at="2022-03-31T15:41:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ba.guru.test.QuotationpageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
